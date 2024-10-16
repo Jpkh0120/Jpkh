@@ -27,6 +27,8 @@ public class Test2 {
 		System.out.println("*                                              *");
 		System.out.println("************************************************");
 		System.out.println("\n\nWelcome!");
+		System.out.println("\n\nWelcome!");
+		
 		
 	}
 }
