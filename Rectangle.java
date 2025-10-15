@@ -3,7 +3,7 @@ class Rectangle {
    double height;
 
    Rectangle() { // constuctor with no argument
-      width = 2;
+      width = 3;
       height = 1;
    }
 
