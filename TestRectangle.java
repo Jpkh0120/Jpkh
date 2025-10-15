@@ -2,7 +2,7 @@ public class TestRectangle{
    public static void main (String [] args){
       //Test Rectangle 1
       Rectangle rectangle1=new Rectangle(4,40);
-      System.out.println("Rectangle 1: ");
+      System.out.println("Rectangle 2s: ");
       System.out.printf("Width: %.1fcm\n",rectangle1.width);
       System.out.printf("Height: %.1fcm\n",rectangle1.height);
       System.out.printf("Area: %.1fcm2\n",rectangle1.getArea());
