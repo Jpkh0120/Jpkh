@@ -4,7 +4,7 @@ public class TestStock {
       Stock stock = new Stock("ORCL", "Oracle Corporation");
       
       // Set previous closing price and current price of the stock
-      stock.previousClosingprice = 34.5;
+      stock.previousClosingprice = 34.6;
       stock.currentPrice = 34.35;
       
       // Display stock details
